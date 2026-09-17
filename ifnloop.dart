@@ -1,7 +1,7 @@
 void main () {
   //     if
 
-    int nilai = 84;
+    int nilai = 86;
 if (nilai > 85) {
     print('nilai di atas 85');
 } else {
