@@ -7,7 +7,7 @@ if (nilai > 85) {
 } else {
     if (nilai < 85)
     print('nilai di bawah 85');
-}    
+}
 
 // if (nilai > 85 ){
 //     print('nilai di atas 85');
