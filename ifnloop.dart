@@ -31,7 +31,13 @@ void main () {
 //     print('nilai diluar pilihan');}
 
 //dowhile
-for (var i = 0; i < 10; i++){
-    print('Nilai $i');
+// for (var i = 0; i < 10; i++){
+//     print('Nilai $i');
+// }
+
+List datamhs = ['Deni,' 'Windy', 'Sindy','Micheal', 'Jonathan'];
+for (var i =0; i < datamhs.length; i++) {
+    print('nama mhs = ${datamhs[i]}');
 }
+
 }
