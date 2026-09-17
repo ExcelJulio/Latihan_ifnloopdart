@@ -17,17 +17,21 @@ void main () {
 // }
 
 // switch
-var nilai = 'A';
-switch (nilai) {
-    case 'A':
-    print('nilai di atas adalah A');
-    break;
-    case 'B':
-    print('nilai di atas bawah B');
-    case 'C':
-    print('nilai di atas bawah C');
-    break;
-    default:
-    print('nilai diluar pilihan');}
+// var nilai = 'A';
+// switch (nilai) {
+//     case 'A':
+//     print('nilai di atas adalah A');
+//     break;
+//     case 'B':
+//     print('nilai di atas bawah B');
+//     case 'C':
+//     print('nilai di atas bawah C');
+//     break;
+//     default:
+//     print('nilai diluar pilihan');}
 
+//dowhile
+for (var i = 0; i < 10; i++){
+    print('Nilai $i');
+}
 }
